@@ -1,0 +1,328 @@
+{
+  "dishes": [
+    {
+      "id": "0",
+      "name": "ADITED",
+      "image": "images/noida.jpg",
+      "category": "mains",
+      "featured": true,
+      "label": "Hot",
+      "price": "4.99",
+      "description": "H-187, Lohia Rd, H Block, Sector 63, Noida, Uttar Pradesh 201301 .WorkWings is a coworking space that focuses on promoting connection, creation and collaboration. Located in Noida, this place is the best alternative to conventional offices. At WorkWings you can choose from a wide variety of desks: you can rent a quick desk, a dedicated hot desk or an island desk. Strategically place, these working stations enhance communication, thus making it easy for you to get a second opinion from one of your coworkers.  The meeting room welcomes you with a modern design, comfortable chairs, a projector and a whiteboard.",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "nice place",
+          "author": "rajat mathur",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "a very friendly environmnet",
+          "author": "Parul kaul",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "its a great experience",
+          "author": "harsh jha",
+          "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Ultimate, Reaching for the stars!",
+          "author": "aryan",
+          "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+          "author": "saksham",
+          "comment": "its great",
+          "rating": 5,
+          "date": "2019-06-28T14:36:13.224Z"
+        },
+        {
+          "author": "Rajat",
+          "comment": "asad",
+          "rating": 5,
+          "date": "2019-12-03T18:30:49.062Z"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "REGUS",
+      "image": "images/indore.jpg",
+      "category": "appetizer",
+      "featured": false,
+      "label": "",
+      "price": "1.99",
+      "description": "Regus, DNR 90 Unit Nos. 301, 3rd floor, Madhya Pradesh 452003 Regus is the world’s largest provider of flexible workspace solutions, with customers including some of the most successful entrepreneurs, individuals and multi-billion dollar corporations.Our network includes almost 3000 business centres, spanning almost 900 cities across 120 countries.Through our range of office formats, as well as our growing mobile, virtual office, and workplace recovery businesses, we enable people and businesses to work where they want, when they want, how they want, and at a range of price points.",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "nice place",
+          "author": "rajat mathur",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "a very friendly environmnet",
+          "author": "Parul kaul",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "its a great experience",
+          "author": "harsh jha",
+          "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Ultimate, Reaching for the stars!",
+          "author": "aryan",
+          "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+          "author": "saksham",
+          "comment": "its great",
+          "rating": 5,
+          "date": "2019-06-28T14:36:13.224Z"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "incuspaze",
+      "image": "images/in.jpg",
+      "category": "appetizer",
+      "featured": false,
+      "label": "New",
+      "price": "1.99",
+      "description": " 214, 2nd Floor, Levana Cyber Heights, Vibhuti Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010  We believe that it takes a lot of focus, energy to build a business. That is why our client can trust us to help them find the perfect office location and property based on their requirements of anything starting from 50+ seats.What really makes Incuspaze unique is the convenience and the professional team that can custom build the space for medium to large enterprises. Add an international office design and flawless customized execution",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "cafe is the best",
+          "author": "abcd",
+          "date": "2017-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "helpfull coworkers",
+          "author": "Paul yadav",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "author": "saajlvjbjbv",
+          "comment": "kbkadbakbkbdbkadbkh",
+          "rating": 5,
+          "date": "2019-07-02T15:02:47.409Z"
+        },
+        {
+          "author": "sahil",
+          "comment": "nice",
+          "rating": 2,
+          "date": "2019-08-14T10:09:40.084Z"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "trios",
+      "image": "images/trios.jpg",
+      "category": "dessert",
+      "featured": false,
+      "label": "",
+      "price": "2.99",
+      "description": " World Trade Centre, Unit No. 801 8th Floor, Dholepatil Farms Rd, Pune, Maharashtra 411014 TRIOS as coworking space provides you with all the basic amenities at Work Desk, i.e. high speed internet, air conditioned premises, chairs that are ergonomically apt, a clean desk – that accommodates your laptop, cell phone, diary, a warm cup of coffee., may be tea!",
+      "comments": [
+        {
+          "rating": 4,
+          "comment": "Ultimate, Reaching for the stars!",
+          "author": "Ringo Starry",
+          "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+          "author": "saajlvjbjbv",
+          "comment": "kbkadbakbkbdbkadbkh",
+          "rating": 5,
+          "date": "2019-07-02T15:02:47.409Z"
+        },
+        {
+          "author": "sahil",
+          "comment": "nice",
+          "rating": 2,
+          "date": "2019-08-14T10:09:40.084Z"
+        },
+        {
+          "author": "abcd",
+          "comment": "enjoyed here\n",
+          "rating": 5,
+          "date": "2019-12-02T12:24:09.205Z"
+        }
+      ]
+    }
+  ],
+  "promotions": [
+    {
+      "id": "0",
+      "name": "trios",
+      "image": "images/trios.jpg",
+      "featured": true,
+      "label": "New",
+      "price": "19.99",
+      "description": " We believe that it takes a lot of focus, energy to build a business. That is why our client can trust us to help them find the perfect office location and property based on their requirements of anything starting from 50+ seats."
+    }
+  ],
+  "leadership": [
+    {
+      "id": "0",
+      "name": "POORVI SHRIVASTAV",
+      "image": "images/poorvi.jpeg",
+      "designation": "MEMBER",
+      "featured": false,
+      "abbr": "161B142",
+      "description": ""
+    },
+    {
+      "id": "1",
+      "name": "RAJAT MATHUR",
+      "image": "images/rajat.jpeg",
+      "designation": "MEMBER",
+      "featured": false,
+      "abbr": "161B164",
+      "description": ""
+    },
+    {
+      "id": "2",
+      "name": "SAKSHAM SRIVASTAVA",
+      "image": "images/saksham.jpg",
+      "designation": "MEMBER",
+      "featured": false,
+      "abbr": "161B190",
+      "description": ""
+    }
+  ],
+  "feedback": [
+    {
+      "firstname": "Zeeshan",
+      "lastname": "Haider",
+      "telnum": "012454545",
+      "email": "test@test.com",
+      "agree": true,
+      "contacttype": "Email",
+      "message": "Awesome Resturant",
+      "id": 1
+    },
+    {
+      "firstname": "Zeeshan",
+      "lastname": "Haider",
+      "telnum": "000",
+      "email": "gsg@sgs.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "asdasdasdasd",
+      "id": 2
+    },
+    {
+      "firstname": "as",
+      "lastname": "as",
+      "telnum": "4545",
+      "email": "asas@hsgs.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "sadasd",
+      "id": 3
+    },
+    {
+      "firstname": "dsadasd",
+      "lastname": "asdasd",
+      "telnum": "323123",
+      "email": "asdasd@sgsgs.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "asdasdasd",
+      "id": 4
+    },
+    {
+      "firstname": "Zeeshan",
+      "lastname": "Haider",
+      "telnum": "45454",
+      "email": "abcd@abff.com",
+      "agree": true,
+      "contacttype": "Tel",
+      "message": "Awesome food!!!",
+      "id": 5
+    },
+    {
+      "firstname": "ghg",
+      "lastname": "hghgh",
+      "telnum": "454",
+      "email": "ghghg@gg.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "cxzczxczxc",
+      "id": 6
+    },
+    {
+      "firstname": "asdasd",
+      "lastname": "asdasd",
+      "telnum": "4545",
+      "email": "sad@gshgsh.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "asdasdasd",
+      "id": 7
+    },
+    {
+      "firstname": "\\zx\\",
+      "lastname": "\\zx\\zx",
+      "telnum": "23123",
+      "email": "bacd@ggsg.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "asdasdasd",
+      "id": 8
+    },
+    {
+      "firstname": "dsaasd",
+      "lastname": "asdasd",
+      "telnum": "3123",
+      "email": "sd@fsfs.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "asdasdasd",
+      "id": 9
+    },
+    {
+      "firstname": "Zee",
+      "lastname": "ggs",
+      "telnum": "565",
+      "email": "hhh@gga.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "asdasdasdasd",
+      "id": 10
+    },
+    {
+      "firstname": "saaa",
+      "lastname": "aaa",
+      "telnum": "222222",
+      "email": "hckhcahc@gmail.com",
+      "agree": true,
+      "contacttype": "Tel",
+      "message": "sisjsjsjsj",
+      "id": 11
+    },
+    {
+      "firstname": "neel",
+      "lastname": "mathur",
+      "telnum": "123456789",
+      "email": "rafgcvhvjbj@gmail.com",
+      "agree": false,
+      "contacttype": "None",
+      "message": "vhjbkbj",
+      "id": 12
+    }
+  ]
+}
